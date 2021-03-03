@@ -10,4 +10,4 @@ pandas
 matplotlib~=3.3.0
 scipy~=1.2.1
 six~=1.15.0
-pyqt~=4.11.1
+PyQt5
