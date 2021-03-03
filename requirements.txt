@@ -2,7 +2,7 @@ numpy~=1.19.1
 pymatgen
 pyvoro
 monty
-openbabel
+#openbabel
 scipy
 pandas
 # pycp2k~=0.2.2
