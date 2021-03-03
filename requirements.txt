@@ -5,8 +5,8 @@ monty
 openbabel
 scipy
 pandas
-pycp2k~=0.2.2
-ase~=3.20.1
+# pycp2k~=0.2.2
+# ase~=3.20.1
 matplotlib~=3.3.0
 scipy~=1.2.1
 six~=1.15.0
